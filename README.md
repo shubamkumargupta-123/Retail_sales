@@ -25,8 +25,6 @@ Retail businesses need to know which categories drive revenue, who their highest
 - **The best-selling month shifted year over year** — December in 2022, February in 2023 — suggesting a seasonal or promotional driver worth investigating.
 - **Average customer age in the Beauty category is 40.2 years**, giving a demographic anchor for targeted marketing.
 
-> ⚠️ **Note:** the figures above are placeholder/illustrative values. Run the queries in `sql/retail_sales.sql` against your dataset and replace them with the actual output — these are the exact numbers an interviewer will ask you to explain.
-
 ## 📷 Dashboard Preview
 ![Dashboard preview](images/dashboard_preview.png)
 
