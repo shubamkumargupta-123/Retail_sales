@@ -1,5 +1,3 @@
-# Retail_sales
-Uncovering sales trends and customer behavior from transactional data using MySQL
 # Retail Sales Analysis — Uncovering sales trends and customer behavior from transactional data using MySQL
 
 ## 📌 Overview
@@ -30,7 +28,9 @@ Retail businesses need to know which categories drive revenue, who their highest
 > ⚠️ **Note:** the figures above are placeholder/illustrative values. Run the queries in `sql/retail_sales.sql` against your dataset and replace them with the actual output — these are the exact numbers an interviewer will ask you to explain.
 
 ## 📷 Dashboard Preview
-Add a screenshot of a key query result (e.g. the top-5-customers or monthly-trend output) here — even a plain results table adds credibility.
+![Dashboard preview](images/dashboard_preview.png)
+
+Add a screenshot of a key query result (e.g. the top-5-customers or monthly-trend output) here — even a plain results table adds credibility. Save it as `images/dashboard_preview.png` so the image above renders on GitHub.
 
 ## 📁 Repository Structure
 ```
