@@ -4,10 +4,10 @@
 Retail businesses need to know which categories drive revenue, who their highest-value customers are, and when their busiest sales periods fall in order to plan inventory and staffing. This project uses SQL to clean a raw retail transactions dataset and answer 10 concrete business questions about sales patterns, customer segments, and timing.
 
 ## 📊 Dataset
-- **Source:** [where the data came from — e.g. Kaggle retail transactions dataset]
-- **Size:** Transaction-level data with customer demographics, product category, quantity, pricing, and total sale value
-- **Period covered:** [fill in the date range covered by your dataset]
-
+- **Source:** Retail Sales Dataset
+- **Size:** Transaction-level data with customer demographics, product category, quantity, pricing, COGS, and total sale value
+- **Period covered:** 2022–2023
+- 
 ## 🛠️ Tools & Techniques
 - **Tool:** MySQL
 - **Key techniques:** Joins, CTEs, Window Functions (RANK), CASE statements, GROUP BY aggregations
