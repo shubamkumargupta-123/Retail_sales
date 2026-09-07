@@ -7,7 +7,7 @@ Retail businesses need to know which categories drive revenue, who their highest
 - **Source:** Retail Sales Dataset
 - **Size:** Transaction-level data with customer demographics, product category, quantity, pricing, COGS, and total sale value
 - **Period covered:** 2022–2023
-- 
+  
 ## 🛠️ Tools & Techniques
 - **Tool:** MySQL
 - **Key techniques:** Joins, CTEs, Window Functions (RANK), CASE statements, GROUP BY aggregations
