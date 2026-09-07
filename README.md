@@ -30,8 +30,6 @@ Retail businesses need to know which categories drive revenue, who their highest
 ## 📷 Dashboard Preview
 ![Dashboard preview](images/dashboard_preview.png)
 
-Add a screenshot of a key query result (e.g. the top-5-customers or monthly-trend output) here — even a plain results table adds credibility. Save it as `images/dashboard_preview.png` so the image above renders on GitHub.
-
 ## 📁 Repository Structure
 ```
 ├── README.md
